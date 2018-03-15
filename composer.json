@@ -3,7 +3,7 @@
   "description": "this is app sample app",
   "type": "waiterphp-service",
   "require": {
-    "waiterphp/installer":"^1.0",
+    "waiterphp/installer":"^1.0"
   },
   "license": "MIT",
   "authors": [
