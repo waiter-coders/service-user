@@ -1,0 +1,15 @@
+{
+  "name": "waiterphp/service-user",
+  "description": "this is app sample app",
+  "type": "waiterphp-service",
+  "require": {
+    "waiterphp/installer":"^1.0",
+  },
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Tian Zheng",
+      "email": "949855040@qq.com"
+    }
+  ]
+}
